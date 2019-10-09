@@ -3,3 +3,4 @@ matplotlib==3.0.3
 tqdm==4.35.0
 networkx==2.3
 pymystem3==0.2.0
+catboost==0.17.4
